@@ -1,0 +1,26 @@
+{
+  "name": "bot-register",
+  "version": "13.1.0",
+  "description": "Bot Ini Bertujuan Untuk Register Member",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahril2108/Bot-Register-djs-v13"
+  },
+  "author": "Syahril Maulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syahril2108/Bot-Register-djs-v13/issues"
+  },
+  "homepage": "https://github.com/syahril2108/Bot-Register-djs-v13#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "express": "^4.17.1"
+  }
+}
